@@ -14,6 +14,8 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
+Danfeng Hong, Lianru Gao, Renlong Hang, Bing Zhang, Jocelyn Chanussot. Deep Encoder-Decoder Networks for Classification of Hyperspectral and LiDAR Data, IEEE Geoscience and Remote Sensing Letters, 2020, DOI: 10.1109/LGRS.2020.3017414.
+
      @article{hong2020more,
       title     = {Deep Encoder-Decoder Networks for Classification of Hyperspectral and LiDAR Data},
       author    = {D. Hong and L. Gao and R. Hang and B. Zhang and J. Chanussot},
