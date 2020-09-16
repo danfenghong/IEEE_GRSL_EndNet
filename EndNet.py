@@ -352,6 +352,6 @@ Y_test = convert_to_one_hot(TeLabel-1, 15)
 Y_train = Y_train.T
 Y_test = Y_test.T
 
-parameters, val_acc, feature = train_mynetwork(HSI_TrSet, LiDAR_TrSet, HSI_TrSet, LiDAR_TrSet, HSI_TeSet, LiDAR_TeSet, Y_train, Y_test, 'MML')
+parameters, val_acc, feature = train_mynetwork(HSI_TrSet, LiDAR_TrSet, HSI_TrSet, LiDAR_TrSet, HSI_TeSet, LiDAR_TeSet, Y_train, Y_test)
 sio.savemat('feature.mat', {'feature': feature})
 print ("Maxmial Accuracy: %f, index: %i" % (max(val_acc),val_acc.index(max(val_acc))))
