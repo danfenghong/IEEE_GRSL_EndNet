@@ -4,7 +4,7 @@
 
 ___________
 
-The code in this toolbox implements the ["Deep Encoder-Decoder Networks for Classification of Hyperspectral and LiDAR Data"](Coming Soon!). More specifically, it is detailed as follow.
+The code in this toolbox implements the ["Deep Encoder-Decoder Networks for Classification of Hyperspectral and LiDAR Data"](https://ieeexplore.ieee.org/document/9179756). More specifically, it is detailed as follow.
 
 ![alt text](./Motivation.png)
 
