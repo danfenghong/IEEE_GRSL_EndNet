@@ -35,7 +35,7 @@ Google drive: https://drive.google.com/file/d/1UaeUWqTHhXzpwGHZElcF8AHwmVo0IwaV/
 
 Baiduyun: https://pan.baidu.com/s/1WI0Gljy0kRcj67dX3xjQUA (access code: 0c6p)
 
-Note: If you would like to use these data, you have to cite the related works, otherwise, you will be trapped into the copyright issues. Please pay more attention to it.
+:exclamation: Note: If you would like to use these data, you have to cite the related works, otherwise, you will be trapped into the copyright issues. Please pay more attention to it.
 
 How to use it?
 ---------------------
